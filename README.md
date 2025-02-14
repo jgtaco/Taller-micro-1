@@ -1,5 +1,14 @@
 # Taller-micro-1
--Análisis de ecuaciones diferencial. Se analiza tres casos particulares: valores y vectores propios y diferentes, iguales y complejos
+Autores: 
+Luis Andrés Mejía
+lmejiachavezfl@flacso.edu.ec
+
+Joao Gerardo Taco
+jtacosanchezfl@flacso.edu.ec
+
+-Análisis sistemas de ecuaciones diferenciales. Se analiza tres casos particulares: valores y vectores propios y diferentes, iguales y complejos
+ 
+  Nombre del archivo: Análisis computacional EDO's 2.ipynb
 
 -Enlace al Google Colab
     https://colab.research.google.com/drive/1OCmGZgn5MqMVIQv1AG3n86PtbAkq3KdA?usp=sharing
